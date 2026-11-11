@@ -1,0 +1,9 @@
+# 编译产物（仓库里故意保留 exe，方便直接下载）
+# *.exe
+
+# 临时文件
+*.tmp
+*.log
+~$*
+Thumbs.db
+desktop.ini
